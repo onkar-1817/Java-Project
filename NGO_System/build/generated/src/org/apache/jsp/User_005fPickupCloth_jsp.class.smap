@@ -1,0 +1,14 @@
+SMAP
+User_005fPickupCloth_jsp.java
+JSP
+*S JSP
+*F
++ 0 User_PickupCloth.jsp
+User_PickupCloth.jsp
++ 1 Admin_Header.jsp
+Admin_Header.jsp
+*L
+1,38:49
+5#1,61:87
+38#0,42:147
+*E

@@ -1,0 +1,14 @@
+SMAP
+clothlisting_jsp.java
+JSP
+*S JSP
+*F
++ 0 clothlisting.jsp
+clothlisting.jsp
++ 1 Admin_Header.jsp
+Admin_Header.jsp
+*L
+5,42:49
+5#1,53:91
+46#0,61:143
+*E
